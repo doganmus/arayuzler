@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\arayuzler\bin\Debug\net5.0\arayuzler.exe
+D:\education\PatikaPratikler\arayuzler\bin\Debug\net5.0\arayuzler.deps.json
+D:\education\PatikaPratikler\arayuzler\bin\Debug\net5.0\arayuzler.runtimeconfig.json
+D:\education\PatikaPratikler\arayuzler\bin\Debug\net5.0\arayuzler.runtimeconfig.dev.json
+D:\education\PatikaPratikler\arayuzler\bin\Debug\net5.0\arayuzler.dll
+D:\education\PatikaPratikler\arayuzler\bin\Debug\net5.0\arayuzler.pdb
+D:\education\PatikaPratikler\arayuzler\obj\Debug\net5.0\arayuzler.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\arayuzler\obj\Debug\net5.0\arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\arayuzler\obj\Debug\net5.0\arayuzler.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\arayuzler\obj\Debug\net5.0\arayuzler.AssemblyInfo.cs
+D:\education\PatikaPratikler\arayuzler\obj\Debug\net5.0\arayuzler.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\arayuzler\obj\Debug\net5.0\arayuzler.dll
+D:\education\PatikaPratikler\arayuzler\obj\Debug\net5.0\refint\arayuzler.dll
+D:\education\PatikaPratikler\arayuzler\obj\Debug\net5.0\arayuzler.pdb
+D:\education\PatikaPratikler\arayuzler\obj\Debug\net5.0\arayuzler.genruntimeconfig.cache
+D:\education\PatikaPratikler\arayuzler\obj\Debug\net5.0\ref\arayuzler.dll
